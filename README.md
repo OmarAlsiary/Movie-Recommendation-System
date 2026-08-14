@@ -86,7 +86,6 @@ A simple, cold-start-friendly baseline used to recommend to new users with no ra
 ├── movies.csv                       # Movie metadata (movieId, title, genres)
 ├── ratings_movies.csv               # User ratings (userId, movieId, rating, timestamp)
 ├── Recommendation_System_0_3.pdf    # Full project report
-├── Recommendation_System.pptx       # Project presentation
 └── README.md
 ```
 
